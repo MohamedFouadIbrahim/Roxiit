@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	 <!-- Theme colors -->
+	<color name="mainColor">#23b8ec</color>
+	<color name="secondColor">#23b8ec</color>
+	<color name="thirdColor">#23b8ec</color>
+	<color name="bgColor1">#ffffff</color>
+	<color name="bgColor2">#eaebed</color>
+	<color name="textColor1">#333333</color>
+	<color name="textColor2">#757575</color>
+	<color name="iconColor1">#333333</color>
+	<color name="mainColorText">#ffffff</color>
+	<color name="statusBarColor">#ffffff</color>
+	<color name="splashBgColor">#ffffff</color>
+	<color name="splashTextColor">#333333</color>
+</resources>

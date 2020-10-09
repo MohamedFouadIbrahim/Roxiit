@@ -1,0 +1,179 @@
+{
+  "project_info": {
+    "project_number": "608356099695",
+    "firebase_url": "https://roxiit2.firebaseio.com",
+    "project_id": "roxiit2",
+    "storage_bucket": "roxiit2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608356099695:android:b7e28ed788397aaac78f9a",
+        "android_client_info": {
+          "package_name": "com.roxiit.stores.mobishop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEnQ5DufRaO5jjYhI2ElcKUrHZiBSAl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608356099695-3jkde7sad8c192hq68qotk9livd6gdvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roxiit.stores.pingshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608356099695:android:60aa69f5425f06a8c78f9a",
+        "android_client_info": {
+          "package_name": "com.roxiit.stores.pingshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEnQ5DufRaO5jjYhI2ElcKUrHZiBSAl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608356099695-3jkde7sad8c192hq68qotk9livd6gdvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roxiit.stores.pingshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608356099695:android:e99c31bcff6b623ec78f9a",
+        "android_client_info": {
+          "package_name": "com.roxiit.stores.roxiit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608356099695-m2n2ea5qk5r7ltlb6asdfbjofmns7vdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roxiit.stores.roxiit",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "608356099695-m3e0a0rq0jmc6gefbnq6v7oeifp4cal3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roxiit.stores.roxiit",
+            "certificate_hash": "59c4acba53eddc0f4b262f1d06fe82898c1c4e6e"
+          }
+        },
+        {
+          "client_id": "608356099695-rbmot8072pcenr3u5k2b57pn1tk9oo25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.roxiit.stores.roxiit",
+            "certificate_hash": "31d3b6160616bf04a75520bfc8f406da89bd4312"
+          }
+        },
+        {
+          "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEnQ5DufRaO5jjYhI2ElcKUrHZiBSAl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608356099695-3jkde7sad8c192hq68qotk9livd6gdvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roxiit.stores.pingshop"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608356099695:android:4a69a3919a00088cc78f9a",
+        "android_client_info": {
+          "package_name": "com.roxiit.stores.step2beacademy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYEnQ5DufRaO5jjYhI2ElcKUrHZiBSAl8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608356099695-ljeovce4ik5i9httmf0vfcpc6e8h6291.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "608356099695-3jkde7sad8c192hq68qotk9livd6gdvm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.roxiit.stores.pingshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
